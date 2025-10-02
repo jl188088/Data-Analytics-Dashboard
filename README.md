@@ -1,2 +1,4 @@
 # Data-Analytics-Dashboard
-![Alt text describing the image](https://example.com/path/to/image.jpg)
+![Screenshot](https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO/main/assets/screenshot.png)
+
+![Screenshot](./dashboard.png)
